@@ -1,0 +1,17 @@
+{
+  "GitHub": "https://github.com/{}",
+  "Twitter": "https://twitter.com/{}",
+  "Instagram": "https://www.instagram.com/{}/",
+  "Reddit": "https://www.reddit.com/user/{}",
+  "TikTok": "https://www.tiktok.com/@{}",
+  "Facebook": "https://www.facebook.com/{}",
+  "LinkedIn": "https://www.linkedin.com/in/{}",
+  "GitLab": "https://gitlab.com/{}",
+  "SoundCloud": "https://soundcloud.com/{}",
+  "Medium": "https://medium.com/@{}",
+  "Pinterest": "https://www.pinterest.com/{}/",
+  "Keybase": "https://keybase.io/{}",
+  "HackerNews": "https://news.ycombinator.com/user?id={}",
+  "Steam": "https://steamcommunity.com/id/{}",
+  "DeviantArt": "https://www.deviantart.com/{}"
+}
