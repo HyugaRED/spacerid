@@ -9,7 +9,6 @@
 - Username lookup across many popular platforms (GitHub, Reddit, Instagram, etc.)
 - Easy to add/remove platforms via `platforms.json`
 - Saves found accounts to an output file
-- Clean terminal output with optional colors (via `colorama`)
 - Lightweight, fast, no external APIs
 - Modular and open source
 
