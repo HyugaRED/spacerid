@@ -62,17 +62,6 @@ Use `{}` as a placeholder where the username will be injected.
 
 ---
 
-## 🎓 License
-
-**Recommended license: MIT License** — because:
-- You allow anyone to use, copy, modify, and share the project
-- You keep attribution to yourself
-- It fits a hacker/open-source spirit
-
-Let me know if you want a different license (GPL, AGPL, etc.)
-
----
-
 ## 🔍 Roadmap (Future Ideas)
 
 - Add email or phone lookup module
